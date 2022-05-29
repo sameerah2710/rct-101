@@ -1,0 +1,9 @@
+.links_wrapper{
+    width: 50%;
+    height: 80%;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
